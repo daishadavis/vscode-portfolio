@@ -79,9 +79,17 @@
   background: rgba(255, 65, 84, 0.25);
 }
 
-.css-modules {
+.css {
   border: 2px solid rgb(21, 114, 182);
 }
-.css-modules:hover {
+.css:hover {
   background: rgba(21, 114, 182, 0.25);
+}
+
+.javascript {
+  border: 2px solid rgb(240, 219, 79);
+}
+
+.express {
+  border: 2px solid red;
 }

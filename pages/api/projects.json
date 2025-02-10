@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Linkedin-profile-converter",
-    "image": "",
+    "image": "https://i.imgur.com/TFUpgdz.png",
     "description": "A website builder for converting linkedin profiles into a one page static website.",
     "tags": ["react", "tailwind", "express", "node"],
     "source_code": "https://github.com/daishadavis/linkedin-profile-converter"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "La-Galleria",
-    "image": "",
+    "image": "https://i.imgur.com/Y6goPGn.jpeg",
     "description": "A web application for creating your very own art galleries.",
     "tags": ["react", "express","node", "tailwind", "mongodb"],
     "source_code": "https://github.com/daishadavis/la-galleria"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Block-AI",
-    "image": "",
+    "image": "https://i.imgur.com/NeYuwOi.jpeg",
     "description": "A chrome extension for blocking AI websites to prevent students from cheating.",
     "tags": ["javascript", "css", ""],
     "source_code": "https://github.com/daishadavis/ChromeExtension"
@@ -26,9 +26,9 @@
   {
     "id": 4,
     "name": "LambdaVision",
-    "image": "",
+    "image": "https://i.imgur.com/Tx5grTO.png",
     "description": "AWS Observability tool for monitoring Lambda function metrics.",
-    "tags": ["react", "express", "mongodb", ""],
+    "tags": ["react", "express", "mongodb"],
     "source_code": "https://github.com/oslabs-beta/LambdaVision"
   }
 ]
